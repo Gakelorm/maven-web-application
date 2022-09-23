@@ -1,4 +1,3 @@
-declarative Jenkinsfile = :
 pipeline{
   agent any 
   tools {
